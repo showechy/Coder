@@ -1,0 +1,9 @@
+* {
+  font-family: "Noto Sans Arabic";
+  direction: rtl;
+}
+.inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
